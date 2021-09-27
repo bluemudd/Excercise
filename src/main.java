@@ -2,7 +2,8 @@
 public class main {
 
     public static void main(String[] args) {
-        new mischief().say();
+        mischief m =new mischief();
+        m.say();
     }
 
 }
